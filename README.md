@@ -1,5 +1,5 @@
 # Kokoro-Connect
-![](images/ohayo.gif)
+![](images/ohayo.gif)  
 おはよう (Ohayo), we are team ILoveIU. In IU Hackathon - Overcome the pressure, we bring to our society a wonderful application. Our product aims to bring people close together and spread happiness everywhere.
 
 ## Inspiration
