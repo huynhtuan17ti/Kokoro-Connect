@@ -4,6 +4,9 @@ Dart
 Flutter
 ```
 # Functions & UI
+<p align="center">
+    <img src="logo.gif"/>
+</p>
 ## Login
 - Authentication.
 - Return sessionID and userID (aka cookies).
