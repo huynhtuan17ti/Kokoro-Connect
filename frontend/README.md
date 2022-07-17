@@ -1,4 +1,9 @@
-# Functions
+# Technologies
+```
+Dart
+Flutter
+```
+# Functions & UI
 ## Login
 - Authentication.
 - Return sessionID and userID (aka cookies).
