@@ -7,9 +7,11 @@ Flutter
 <p align="center">
     <img src="logo.gif"/>
 </p>
+
 ## Login
 - Authentication.
 - Return sessionID and userID (aka cookies).
+
 ## Sign up
 - Create new account, save in server.
 ## Log out
